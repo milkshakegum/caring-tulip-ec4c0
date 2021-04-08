@@ -1,8 +1,7 @@
 ---
-template: 'index-template'
-title: 'Gatsby Starter Glass'
+template: index-template
+title: Gatsby Starter Glass
 ---
+\#JIANNA MASMILA
 
-#Hello World
-
-A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
+Product Designer
