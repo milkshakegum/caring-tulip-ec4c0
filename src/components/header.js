@@ -21,7 +21,7 @@ const Header = () => {
     <StyledHeader>
       <HeaderWrapper>
         <HeaderTitle>
-          <Link to="/home">{site.siteMetadata.title}</Link>
+          <Link to="home">{site.siteMetadata.title}</Link>
         </HeaderTitle>
 
         <HeaderNavList>
