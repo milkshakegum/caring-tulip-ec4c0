@@ -2,6 +2,6 @@
 template: index-template
 title: Gatsby Starter Glass
 ---
-\#JIANNA MASMILA
+# JIANNA MASMILA
 
 Product Designer
