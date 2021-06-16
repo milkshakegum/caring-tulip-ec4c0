@@ -21,7 +21,7 @@ const Header = () => {
     <StyledHeader>
       <HeaderWrapper>
         <HeaderTitle>
-          <Link to="https://caring-tulip-ec4c0.netlify.app/">{site.siteMetadata.title}</Link>
+          <Link to="/home">{site.siteMetadata.title}</Link>
         </HeaderTitle>
 
         <HeaderNavList>
