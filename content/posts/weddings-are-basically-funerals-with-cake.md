@@ -1,6 +1,6 @@
 ---
 title: Kapwa - Decentralized Social Network
-date: '0002-09-03'
+date: '2012-09-03'
 tags:
   - rick and morty
   - tv series
